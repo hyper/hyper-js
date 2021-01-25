@@ -8,7 +8,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/@meta-labs/meta-labs-js@1.0.3/index.js"></script>
     <script>
-      MetaLabs('dashboard.astrotrading.io', {
+      MetaLabs('dev.metalabs.io', {
         purchaseButtonId: 'purchaseButton',
         outOfStockText: 'Out Of Stock',
         inStockText: 'Purchase',
