@@ -6,7 +6,7 @@
   <body>
     <a id="purchaseButton">Loading...</a>
 
-    <script src="https://cdn.jsdelivr.net/npm/@meta-labs/meta-labs-js@1.0.3/index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@meta-labs/meta-labs-js@1.0.4/index.js"></script>
     <script>
       MetaLabs('dev.metalabs.io', {
         purchaseButtonId: 'purchaseButton',
