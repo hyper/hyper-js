@@ -1,6 +1,6 @@
 {
   "name": "@meta-labs/meta-labs-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "repository": "https://github.com/meta-labs/meta-labs-js.git",
   "author": "Meta Labs <support@metalabs.io>",
